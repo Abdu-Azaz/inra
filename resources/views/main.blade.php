@@ -96,32 +96,4 @@
         <h1 class="mb-0">Convention de droit commun</h1>
     </div> --}}
 
-    <table id="myTable" class="display">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Age</th>
-            <th>City</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>John Doe</td>
-            <td>25</td>
-            <td>New York</td>
-          </tr>
-          <tr>
-            <td>Jane Smith</td>
-            <td>30</td>
-            <td>London</td>
-          </tr>
-          <tr>
-            <td>Mike Johnson</td>
-            <td>35</td>
-            <td>Tokyo</td>
-          </tr>
-        </tbody>
-      </table>
-    
-
 @endsection
